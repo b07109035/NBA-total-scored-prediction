@@ -1,3 +1,1 @@
-# betting_sport_lottery_using_machine_learning
-
-Using Machine Learning method to predict the total scoring of games.Takes all data from NBA.com and the price from Bookmaker.
+Using Multiple Regression predicting nba total score from 2007 to 2017.Takes all data from NBA.com and the price from Bookmaker.
